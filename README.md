@@ -1,4 +1,4 @@
-# Tawabe3 Project :art:
+# Tawabe3 - طوابع :art:
 A platform where stores can have an e-commerce website to recieve orders releated to custom name tages. Stores are provided with an Admin platform to manage thier orders, track designers progress, and revenue.
 
 ![sticker](https://github.com/mahdyhamad/Tawabe3-overview/blob/main/4.jpg){width="100px"}
