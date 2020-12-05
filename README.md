@@ -1,15 +1,18 @@
 # Tawabe3 - طوابع :art:
 A platform where stores can have an e-commerce website to recieve orders releated to custom name tages. Stores are provided with an Admin platform to manage thier orders, track designers progress, and revenue.
 
-- Stack used:
-  Backend: Django, python.
-  Frontend: Angular 8, Typescript.
-  API: Graphql API, using Graphene library.
-- Other services:
-  Messaging Service: Twillio, to send dynamic sms programmatically.
+- **Stack used**:
+  - Backend: Django, python.
+  - Frontend: Angular 8, Typescript.
+  - API: Graphql API, using Graphene library.
 
-MVP [demo](https://nameless-coast-52919.herokuapp.com/en/order)
-The final product does not reach to deployement stage, it still on my local machiene. 
+- **Other services**:
+  - Messaging Service: Twillio, to send dynamic sms programmatically.
+
+**MVP [demo](https://nameless-coast-52919.herokuapp.com/en/order).**
+**MVP [backend](https://github.com/mahdyhamad/tawabe3-frontend) and [frontend](https://github.com/mahdyhamad/tawabe3-frontend) code.**
+**The final product does not reach to deployement stage, it still on my local machiene.**
+**The code for the final product is not available for public access.**
 
 ![sticker](https://github.com/mahdyhamad/Tawabe3-overview/blob/main/4.jpg){width="100px"}
 
