@@ -10,11 +10,14 @@ A platform where stores can have an e-commerce website to recieve orders releate
   - Messaging Service: Twillio, to send dynamic sms programmatically.
 
 **MVP [demo](https://nameless-coast-52919.herokuapp.com/en/order).**
+
 **MVP [backend](https://github.com/mahdyhamad/tawabe3-frontend) and [frontend](https://github.com/mahdyhamad/tawabe3-frontend) code.**
+
 **The final product does not reach to deployement stage, it still on my local machiene.**
+
 **The code for the final product is not available for public access.**
 
-![sticker](https://github.com/mahdyhamad/Tawabe3-overview/blob/main/4.jpg){width="100px"}
+![sticker](https://github.com/mahdyhamad/Tawabe3-overview/blob/main/4.jpg)
 
 ## The Problem :triangular_flag_on_post:
 
