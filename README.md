@@ -1,6 +1,8 @@
 # Tawabe3 - طوابع :art:
 A platform where stores can have an e-commerce website to recieve orders releated to custom name tages. Stores are provided with an Admin platform to manage thier orders, track designers progress, and revenue.
 
+- This platform was built using Django and Angualr 8.
+
 ![sticker](https://github.com/mahdyhamad/Tawabe3-overview/blob/main/4.jpg){width="100px"}
 
 ## The Problem :triangular_flag_on_post:
