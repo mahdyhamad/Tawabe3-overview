@@ -11,7 +11,7 @@ A platform where stores can have an e-commerce website to recieve orders releate
 
 **MVP [demo](https://nameless-coast-52919.herokuapp.com/en/order).**
 
-**MVP [backend](https://github.com/mahdyhamad/tawabe3-frontend) and [frontend](https://github.com/mahdyhamad/tawabe3-frontend) code.**
+**MVP [backend](https://github.com/mahdyhamad/tawabe3-backend) and [frontend](https://github.com/mahdyhamad/tawabe3-frontend) code.**
 
 **The final product does not reach to deployement stage, it still on my local machiene.**
 
