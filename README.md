@@ -13,7 +13,7 @@ A platform where stores can have an e-commerce website to recieve orders releate
 
 **MVP [backend](https://github.com/mahdyhamad/tawabe3-backend) and [frontend](https://github.com/mahdyhamad/tawabe3-frontend) code.**
 
-**The final product does not reach to deployement stage, it still on my local machiene.**
+**The final product was not deployed to the Internet, but will be available soon.**
 
 **The code for the final product is not available for public access.**
 
