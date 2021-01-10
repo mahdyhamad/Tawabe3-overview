@@ -21,7 +21,7 @@ A platform where stores can have an e-commerce website to recieve orders releate
 
 ## The Problem :triangular_flag_on_post:
 
-Some stores in west Amman design name tages for students, this sticker is customizable. The students can select a background, name, class, school, and the number of copies. They also can add a photo of them on the sticker. This all happen using a paper and a pen, the designer recieves these orders using Whatsapp as images from different branches, when I was working their as a designer I recieved more that 500 orders on Whatsapp in 2 weeks. Hand writting was a big problem I face every day, and a lot of things can go wronge starting from the catalogue where the designs are shown, and it is easy to loose orders using this system. The biggest problem was dealing with angry customers when they see that their orders are not ready as they expect. So I had to build the solution for this.
+Some stores in west Amman design name tages for students, this sticker is customizable. The student can select a background, name, class, and school. They also can add a photo of them on the sticker. This all happen using a paper and a pen, the designer recieves these orders using Whatsapp as images from different branches, when I was working their as a designer I recieved more that 500 orders on Whatsapp in 2 weeks. Hand writting was a big problem I faced everyday, and a lot of things can go wronge starting from the catalogue where the designs are shown, and it is easy to loose orders using this system. The biggest problem was dealing with angry customers when they see that their orders are not ready as they expected.
 
 ## The Idea :bulb:
 
@@ -30,5 +30,5 @@ Some stores in west Amman design name tages for students, this sticker is custom
 ## How Does It Work?
 ![Steps](https://github.com/mahdyhamad/Tawabe3-overview/blob/main/3.jpg)
 
-## What Services Tawabe3 Offers? :gem:
+## What we Offer? :gem:
 ![Services](https://github.com/mahdyhamad/Tawabe3-overview/blob/main/5.jpg)
